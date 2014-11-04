@@ -1,6 +1,6 @@
 # RippleSimulationCSharp
 
-[!Screenshot](Screenshots/latest.png)
+![Screenshot](Screenshots/latest.png)
 
 ## What is it? 
 
